@@ -5,7 +5,13 @@
 - Trusty is safe & easy to use:smile::smiley:.
 
 ##  :camera: Gallery
+![trusty_home](https://user-images.githubusercontent.com/85496711/218611364-68eb7f55-8c1c-4084-9df1-8a56c8a8ec66.PNG)
 
+![trusty_main](https://user-images.githubusercontent.com/85496711/218611380-077e951b-997d-4007-b3f2-0e436f975d85.PNG)
+
+![trusty_footer](https://user-images.githubusercontent.com/85496711/218611403-5200d037-f5bb-4bf3-89e5-84b835c36d63.PNG)
+
+![trusty_onePost](https://user-images.githubusercontent.com/85496711/218611417-b1f4fe19-1dd2-4582-91b4-a9f5a1b7aafd.PNG)
 
 *****************************************************************************************************************************
 ##  :beginner: About
